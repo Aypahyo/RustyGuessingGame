@@ -1,4 +1,4 @@
-pub mod chapter01_arg_matches;
+pub mod chapter00_arg_matches;
 pub mod chapter03_data_types;
 pub mod chapter02_guessing_game;
 pub mod chapter03_control_flow;
